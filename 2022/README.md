@@ -3,7 +3,6 @@
 # Janaury
 
 ## Blog Posts
-* The Mac Malware of 2021 - Patrick Wardle
 * [A Threat Hunter’s Guide to the Mac’s Most Prevalent Adware Infections 2022](https://www.sentinelone.com/labs/a-threat-hunters-guide-to-the-macs-most-prevalent-adware-infections-2022/) - Phil Stokes
 * [DazzleSpy Mac Malware Used in Targeted Attacks](https://www.intego.com/mac-security-blog/dazzlespy-mac-malware-used-in-targeted-attacks/) - Josh Long (Intego)
   * Summary based on others analysis, contains IoCs
@@ -24,7 +23,7 @@
 
 ## Vulnerabilities & Exploits
 * [Microsoft OneDrive for macOS Local Privilege Escalation](https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/) - Csaba Fitzl
-* [New macOS vulnerability, “powerdir,” could lead to unauthorized user data access](https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/)
+* [New macOS vulnerability, “powerdir,” could lead to unauthorized user data access](https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/) - Microsoft Security
 
 
 ---
