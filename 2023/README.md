@@ -20,8 +20,8 @@
     * [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
   * Tweet from Zhuowei Zhang explaining the improvements
     * https://twitter.com/zhuowei/status/1614070658308231169
-  * [DER Entitlements: The (Brief) Return of the Psychic Paper](https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html) -  Ivan Fratric
-  	* CVE-2022-42855
+* [DER Entitlements: The (Brief) Return of the Psychic Paper](https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html) -  Ivan Fratric
+  * CVE-2022-42855
 
 ## Eclectic Light Company (Howard Oakley)
 * [Can you rely on macOS Ventura for malware protection?](https://eclecticlight.co/2023/01/03/can-you-rely-on-macos-ventura-for-malware-protection/)
