@@ -22,6 +22,8 @@
     * https://twitter.com/zhuowei/status/1614070658308231169
 * [DER Entitlements: The (Brief) Return of the Psychic Paper](https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html) -  Ivan Fratric
   * CVE-2022-42855
+* [CVE-2022-42864 - Diabolical Cookies](https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html) - Muirey03
+  * CVE-2022-42864 
 
 ## Eclectic Light Company (Howard Oakley)
 * [Can you rely on macOS Ventura for malware protection?](https://eclecticlight.co/2023/01/03/can-you-rely-on-macos-ventura-for-malware-protection/)
