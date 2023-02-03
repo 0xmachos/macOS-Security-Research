@@ -58,7 +58,7 @@
 ## Vulnerabilities & Exploits
 * [Technical Advisory – Apple macOS XAR – Arbitrary File Write (CVE-2022-22582)](https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/) - Rich Warren
 * CVE-2022-22616
-  * [Jamf Threat Labs identifies Safari vulnerability allowing for Gatekeeper bypass](https://www.jamf.com/blog/jamf-threat-labs-safari-vuln-gatekeeper-bypass/)
+  * [Jamf Threat Labs identifies Safari vulnerability allowing for Gatekeeper bypass](https://www.jamf.com/blog/jamf-threat-labs-safari-vuln-gatekeeper-bypass/) - Jamf
   * [CVE-2022-22616: Simple way to bypass GateKeeper, hidden for years](https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/) - Mickey Jin
 
 ## Conference Talks
