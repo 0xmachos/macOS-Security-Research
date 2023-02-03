@@ -123,7 +123,6 @@
 * [AMFI Launch Constraints - First Quick Look](https://theevilbit.github.io/posts/amfi_launch_constraints/) - Csaba Fitzl 
 * [Apple’s macOS Ventura | 7 New Security Changes to Be Aware Of](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/) - Phil Stokes 
 * [CrowdStrike Uncovers New MacOS Browser Hijacking Campaign](https://www.crowdstrike.com/blog/how-crowdstrike-uncovered-a-new-macos-browser-hijacking-campaign/) - CrowdStrike 
-* [New Security and Privacy Features in macOS Ventura, iOS 16, and iPadOS 16](https://www.intego.com/mac-security-blog/new-security-and-privacy-features-in-macos-ventura-ios-16-and-ipados-16/) - Intego
 * [Exploiting Intel Graphics Kernel Extensions on macOS](https://blog.ret2.io/2022/06/29/pwn2own-2021-safari-sandbox-intel-graphics-exploit/) - Jack Dates
 
 ## Conference Talks
