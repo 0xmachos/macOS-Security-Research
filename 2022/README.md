@@ -32,7 +32,7 @@
 # February
 
 ## Malware
-* [The evolution of a Mac trojan: UpdateAgent’s progression](https://www.microsoft.com/en-us/security/blog/2022/02/02/the-evolution-of-a-mac-trojan-updateagents-progression/)
+* [The evolution of a Mac trojan: UpdateAgent’s progression](https://www.microsoft.com/en-us/security/blog/2022/02/02/the-evolution-of-a-mac-trojan-updateagents-progression/) - Microsoft Defender Threat Intelligence
 
 ## Offensive
 * [Querying Spotlight APIs With JXA](https://cedowens.medium.com/querying-spotlight-apis-with-jxa-3ae4bb9af3b4) - Cedric Owens
