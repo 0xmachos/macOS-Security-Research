@@ -97,9 +97,9 @@
 * [LIEF - Mach-O Support Enhancements](https://lief-project.github.io/blog/2022-05-08-macho/) - Romain Thomas 
 * [Taking ESF For A(nother) Spin](https://cedowens.medium.com/taking-esf-for-a-nother-spin-6e1e6acd1b74) - Cedric Owens
 
-## Malware
-https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-22675.html - Natalie Silvanovich
-https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/ - Jack Dates macOS Vulnerabilities 
+## Malware
+* [CVE-2022-22675: AppleAVD Overflow in AVC_RBSP::parseHRD](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-22675.html) - Natalie Silvanovich
+* [Exploiting an Unbounded memcpy in Parallels Desktop](https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/) - Jack Dates
 
 ## Conference Talks
 * [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s) - Csaba Fitzl (Black Hat Asia)
