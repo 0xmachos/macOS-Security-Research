@@ -24,6 +24,8 @@
   * CVE-2022-42855
 * [CVE-2022-42864 - Diabolical Cookies](https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html) - Muirey03
   * CVE-2022-42864 
+* [CVE-2023-23504: XNU Heap Underwrite in dlil.c](https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/) - Adam Doupé
+  * CVE-2023-23504
 
 ## Eclectic Light Company (Howard Oakley)
 * [Can you rely on macOS Ventura for malware protection?](https://eclecticlight.co/2023/01/03/can-you-rely-on-macos-ventura-for-malware-protection/)
